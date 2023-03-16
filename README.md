@@ -8,6 +8,6 @@ These notebooks serve as **a starting point for your computer vision projects** 
 
 - **Image Classification** ([**GitHub**](1_Classification_PyTorch_EfficientNetV2.ipynb) / [**Kaggle**](https://www.kaggle.com/shnakazawa/image-classification-with-pytorch-and-efficientnet))
 - **Object Detection** ([**GitHub**](2_Object_Detection_PyTorch_DETR.ipynb) / [**Kaggle**](https://www.kaggle.com/shnakazawa/object-detection-with-pytorch-and-detr)) 
-- Semantic Segmentation (TBA)
+- **Semantic Segmentation** ([**GitHub**](3_Semantic_Sgmentation_PyTorch_U-Net.ipynb) / [**Kaggle**](https://www.kaggle.com/code/shnakazawa/semantic-segmentation-with-pytorch-and-u-net)) 
 
 Please feel free to contribute to the repository by submitting your own notebooks or suggesting improvements to the existing ones. Thank you for visiting!
